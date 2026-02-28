@@ -1,20 +1,59 @@
-<h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">A passionate frontend and Python developer from India</h3>
+# hey, i'm rahul 👾
 
-- 🌱 I’m currently learning **Frontend, Data structures**
+> *currently turning coffee into game mechanics and AI into something useful*
 
-- 💬 Ask me about **Langchain**
+```python
+rahul = {
+    "focus":    ["Game Development", "AI/ML"],
+    "status":   "shipping code & breaking things",
+    "vibe":     "git commit -m 'it works, don't touch it'",
+    "fun_fact": "I once spent 3 hours debugging... it was a missing semicolon"
+}
+```
 
-- 📫 How to reach me **rahulgupta505052@gmail.com**
+---
 
-- ⚡ Fun fact **I forgot things..**
+## 🛠️ tools i actually use
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rahul gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul gupta" height="30" width="40" /></a>
-<a href="https://instagram.com/pixelpulserahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pixelpulserahul" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/arti63790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arti63790@gmail.com" height="30" width="40" /></a>
-</p>
+| what | for what |
+|------|----------|
+| 🐍 **Python** | AI stuff, scripting, automation |
+| 🔷 **C#** | Unity scripts that somehow work |
+| 🎮 **Unity** | building games nobody asked for |
+| 🗿 **Blender** | 3D things that sometimes look good |
+| 🎨 **Substance Painter** | making textures look less terrible |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+## 🌱 currently into
+
+- 🤖 **AI/ML** — making machines do the work
+- 🔓 **Open Source** — contributing to things smarter people built
+
+---
+
+## 🎲 fun facts
+
+- 🤖 i let the AI write the code and then pretend i understood it in the PR
+- 📉 my commit history is just "fix", "fix2", "fix_final", "fix_final_ACTUAL"
+- 🎮 built a game engine from scratch just to make a cube rotate
+- 🗿 asked claude to explain my own code back to me
+- 💅 my blender file has 47 objects all named "Cube.031"
+
+---
+
+## 📊 github wrapped
+
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pixxelpulserahul&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pixxelpulserahul&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
+
+---
+
+<div align="center">
+
+*"first, solve the problem. then, write the code."*
+
+`> rahul.exe is running...`
+
+</div>
